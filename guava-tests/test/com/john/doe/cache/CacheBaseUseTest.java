@@ -14,7 +14,7 @@ import com.john.doe.entity.User;
 /**
  * Created by joker on 2022/12/6.
  */
-public class CacheExpireTest {
+public class CacheBaseUseTest {
 
     private static Random rand = new Random();
 
